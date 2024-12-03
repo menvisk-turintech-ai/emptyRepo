@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository is currently empty. It is intended to serve as a starting point for [briefly describe the purpose of the project, e.g., a web application, library, tool, etc.]. 
+This repository is currently empty. It is intended to serve as a starting point for a web application, library, tool, etc. that aims to [briefly describe the purpose of the project, e.g., solve a specific problem, provide a certain functionality, etc.].
 
 ## Table of Contents
 
